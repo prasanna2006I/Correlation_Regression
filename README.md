@@ -56,7 +56,7 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
-# Result
+# output
 ![image](https://github.com/user-attachments/assets/85b55e81-fe11-4ad2-99e8-835bb421f985)
 
-# Output 
+# Result
