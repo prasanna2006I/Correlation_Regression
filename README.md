@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+# NAME: PRASANNA I
+# REG NO:212223220079
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
